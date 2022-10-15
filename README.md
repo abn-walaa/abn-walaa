@@ -1,7 +1,6 @@
 -  Hi , I’m @abn-walaa
 -  I’m interested in Back-end
 -  I’m currently learning Node.js
--  I’m looking to collaborate on some projects
 - How to reach me on telegram @zzezz
 
 <!---
