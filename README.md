@@ -25,6 +25,7 @@ Backend Developer with 2+ years of experience building production applications.
 
 ## Contact
 
-- Email: toabnwalaa@gmail.com
+- Email: mohammed.walaa.razzaq@gmail.com
+
 
 
